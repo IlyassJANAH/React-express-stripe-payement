@@ -11,14 +11,14 @@ Change directory to the folder:
 ```
 $ cd react-express-stripe-payement
 ```
-Install dependencies:
+## Install dependencies:
 
-## Frontend
+* Frontend
 ```
 $cd frontend
 $ npm install
 ```
-## Backend
+* Backend
 ```
 $cd backend
 $ npm install
