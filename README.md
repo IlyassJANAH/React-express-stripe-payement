@@ -28,10 +28,8 @@ $ npm install
 
 * Register at Stripe and Setup a Payment Account to access the Dashboard
 * Find your API Keys:
-* Replace frontend
-  * API keys: YOUR_STRIPE_PUBLIC_KEY
-* Replace backend
-  * API keys: YOUR_STRIPE_SECRET_KEY
+* Replace frontend API keys
+* Replace backend API keys
 
 
 ## Usage
